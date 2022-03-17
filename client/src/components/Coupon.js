@@ -1,6 +1,6 @@
 import React from 'react';
 import { Card } from 'react-bootstrap';
-import placeholder from "../img/cheezit.jpg"
+import placeholder from "../img/stock-photo.jpg"
 
 const Coupon = ({ singleCoupon }) => {
    if (singleCoupon._id === "") {
